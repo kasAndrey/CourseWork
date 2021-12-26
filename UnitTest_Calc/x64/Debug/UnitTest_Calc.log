@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  UnitTest_Calc.cpp
+D:\3_STUDY\АиСД\Veta_Kurs_calculator-master\Kurs_calculator\Calculator.h(537,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\3_STUDY\АиСД\Veta_Kurs_calculator-master\Kurs_calculator\Calculator.h(1032,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\3_STUDY\АиСД\Veta_Kurs_calculator-master\Kurs_calculator\Calculator.h(1052,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\3_STUDY\АиСД\Veta_Kurs_calculator-master\Kurs_calculator\Calculator.h(1096,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\3_STUDY\АиСД\Veta_Kurs_calculator-master\Kurs_calculator\Calculator.h(1109,31): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека D:\3_STUDY\АиСД\Veta_Kurs_calculator-master\x64\Debug\UnitTest_Calc.lib и объект D:\3_STUDY\АиСД\Veta_Kurs_calculator-master\x64\Debug\UnitTest_Calc.exp
+  UnitTest_Calc.vcxproj -> D:\3_STUDY\АиСД\Veta_Kurs_calculator-master\x64\Debug\UnitTest_Calc.dll
